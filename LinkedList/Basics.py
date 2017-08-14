@@ -58,7 +58,21 @@ class LinkedList(object):
 				self.head = new_node
 		else :
 			return None
+	
+	""" For stack implementation we need to use insert first"""
+	def insert_first(self,new_node):
+		new_node.next = self.head
+		self.head = new_node
+	
+	""" Delete first element"""
+	def delete_first(self):
+		to_delete = self.head 
+		if self.head :
+			self.head = to_delete.next
+			to_delete.next = None
+		return to_delete
 
+	""" Delete and element of value"""
 	def delete(self, value):
         	"""Delete the first node with a given value."""
         	current = self.head
@@ -79,7 +93,41 @@ class LinkedList(object):
 		while current:
 			print current.value
 			current = current.next
+#Stack implementation
+class Stack(object):
+	# Constructor
+	def __init__(self,top=None):
+		self.ll = LinkedList(top)
+	
+	#push property -> push the node to stack and make it top
+	def push(self,new_node):
+		self.ll.insert_first(new_node)
+	
+	#pop property
+	def pop(self):
+		return self.ll.delete_first()
 		
+#Queue Implementation
+class Queue(object):
+	#Constructor
+	def __init__(self,peek=None):
+		self.ll = LinkedList(peek)
+	
+	#insert data into queue
+	def enqueue(self,new_node):
+		current  = self.ll
+		while current.next :	
+			current = current.next
+		current.next = new_node
+
+	#Delete data from queue
+	def dequeue(self):
+		return self.ll.delete_first()
+	
+	#peek value
+	def peek(self):
+		return self.head
+	
 #Main Function
 node1 = Node(1)
 node2 = Node(2)
