@@ -7,8 +7,23 @@ To collect many important data structures for usage in programs. I have implemen
 
 I hope you find my library useful. If you are using it drop me a line I would love to hear about it. Also, many more data structures to be added to this repo.
 
+#Requirements 
+
+Software and Libraries This project uses the following software and Python libraries:
+	- Visual Studio
+	- CodeBlocks
+	- Python 2.7
+	- NumPy
+	- pandas
+	- scikit-learn (v0.17)
+	- matplotlib
+	- Jupyter Notebook
+
+
 # Implemented Collections:
   - <a href="https://github.com/saiabhishekgv/DataStructures/tree/master/LinkedList"> Linked Lists</a>
   - <a href="https://github.com/saiabhishekgv/DataStructures/tree/master/Graph"> Graphs </a>
   - <a href="https://github.com/saiabhishekgv/DataStructures/tree/master/sortand%20search"> Search and Sort Algorithms</a>
+  - <a href="https://github.com/saiabhishekgv/DataStructures/tree/master/Maps%20and%20Hashing"> Maps and Hashing</a>
+
   
