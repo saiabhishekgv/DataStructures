@@ -21,8 +21,12 @@ Software and Libraries This project uses the following software and Python libra
 
 
 # Implemented Collections:
+  - <a href="https://github.com/saiabhishekgv/DataStructures/tree/master/Algorithms"> Algorithms</a>
+  - <a href="https://github.com/saiabhishekgv/DataStructures/tree/master/Algorithms/Backtracking"> Backtracking</a>
+  - <a href="https://github.com/saiabhishekgv/DataStructures/tree/master/ArraysandStrings"> Arrays and Strings </a>
   - <a href="https://github.com/saiabhishekgv/DataStructures/tree/master/LinkedList"> Linked Lists</a>
   - <a href="https://github.com/saiabhishekgv/DataStructures/tree/master/Graph"> Graphs </a>
+  - <a href="https://github.com/saiabhishekgv/DataStructures/tree/master/Trees"> Trees </a>
   - <a href="https://github.com/saiabhishekgv/DataStructures/tree/master/sortand%20search"> Search and Sort Algorithms</a>
   - <a href="https://github.com/saiabhishekgv/DataStructures/tree/master/Maps%20and%20Hashing"> Maps and Hashing</a>
 
