@@ -7,7 +7,7 @@ To collect many important data structures for usage in programs. I have implemen
 
 I hope you find my library useful. If you are using it drop me a line I would love to hear about it. Also, many more data structures to be added to this repo.
 
-#Requirements 
+# Requirements 
 
 Software and Libraries This project uses the following software and Python libraries:
 	- Visual Studio
