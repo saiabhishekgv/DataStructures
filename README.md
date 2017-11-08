@@ -10,6 +10,7 @@ I hope you find my library useful. If you are using it drop me a line I would lo
 # Requirements 
 
 Software and Libraries This project uses the following software and Python libraries:
+	
 	- Visual Studio
 	- CodeBlocks
 	- Python 2.7
@@ -30,4 +31,11 @@ Software and Libraries This project uses the following software and Python libra
   - <a href="https://github.com/saiabhishekgv/DataStructures/tree/master/sortand%20search"> Search and Sort Algorithms</a>
   - <a href="https://github.com/saiabhishekgv/DataStructures/tree/master/Maps%20and%20Hashing"> Maps and Hashing</a>
 
+# Resources : 
+
+	- http://massivealgorithms.blogspot.tw/2016/12/leetcode-471-encode-string-with.html
+	- leetcode.com
+	- geeksforgeeks.org
+	
+   
   
