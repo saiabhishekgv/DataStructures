@@ -10,7 +10,6 @@ I hope you find my library useful. If you are using it drop me a line I would lo
 # Requirements 
 
 Software and Libraries This project uses the following software and Python libraries:
-	
 	- Visual Studio
 	- CodeBlocks
 	- Python 2.7
@@ -33,7 +32,7 @@ Software and Libraries This project uses the following software and Python libra
 
 # Resources : 
 
-	- http://massivealgorithms.blogspot.tw/2016/12/leetcode-471-encode-string-with.html
+	- http://massivealgorithms.blogspot.tw/
 	- leetcode.com
 	- geeksforgeeks.org
 	
