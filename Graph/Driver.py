@@ -15,6 +15,12 @@ g.addEdge(2,5,13)
 g.addEdge(3,4,15)
 g.addEdge(4,5,1)
 
+
 for v in g:
     for w in v.getConnections():
-        print("( %s , %s )" % (v.getId(), w.getId()))
+        print("( %s , %s ) is an edge with weight %s" % (v.getId(), w.getId(),v.getWeight(w)))
+
+
+'''
+That's all introduction to Graphs. For practise, Go to problem Word Ladder(can be found with name wordLadder.py in the directory).
+'''
