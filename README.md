@@ -29,6 +29,9 @@ Software and Libraries This project uses the following software and Python libra
   - <a href="https://github.com/saiabhishekgv/DataStructures/tree/master/Trees"> Trees </a>
   - <a href="https://github.com/saiabhishekgv/DataStructures/tree/master/sortand%20search"> Search and Sort Algorithms</a>
   - <a href="https://github.com/saiabhishekgv/DataStructures/tree/master/Maps%20and%20Hashing"> Maps and Hashing</a>
+  - <a href="https://github.com/saiabhishekgv/DataStructures/tree/master/Bit%20Manipulations"> Bit Manipulations</a>
+  
+  
 
 # Leetcode solutions:
 
