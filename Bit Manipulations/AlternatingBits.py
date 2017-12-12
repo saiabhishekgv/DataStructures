@@ -1,7 +1,7 @@
-/*
+'''
 Leetcode Problem 693. Binary Number with Alternating Bits
 Given a positive integer, check whether it has alternating bits
-*/
+'''
 
 class Solution(object):
     def hasAlternatingBits(self, n):
