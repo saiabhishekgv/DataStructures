@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7f98bb4d-f2b8-4aa2-82e2-34188ec0d88f" name="Default" comment="">
       <change beforePath="" afterPath="$PROJECT_DIR$/Algorithms/InterviewCake/Product-of-numbers.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Algorithms/InterviewCake/StockExchange.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/Exercism/word-count/word_count.py" afterPath="$PROJECT_DIR$/Algorithms/Exercism/word-count/word_count.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -305,7 +303,14 @@
       <option name="project" value="LOCAL" />
       <updated>1513136750148</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Code : StockExchange Problem">
+      <created>1513558548536</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1513558548536</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -349,7 +354,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32900432" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32900432" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -377,7 +382,8 @@
     <MESSAGE value="Code : Daily Temperature Problem" />
     <MESSAGE value="Code : Exercism 4 programs" />
     <MESSAGE value="Code : Exercism 5-10 problems &#10;&#10;5.bob&#10;6.gigasecond&#10;7.hamming&#10;8.rna-transcription&#10;9.run-length-encoding&#10;10.word-count" />
-    <option name="LAST_COMMIT_MESSAGE" value="Code : Exercism 5-10 problems &#10;&#10;5.bob&#10;6.gigasecond&#10;7.hamming&#10;8.rna-transcription&#10;9.run-length-encoding&#10;10.word-count" />
+    <MESSAGE value="Code : StockExchange Problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="Code : StockExchange Problem" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
