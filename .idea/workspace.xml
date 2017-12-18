@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f98bb4d-f2b8-4aa2-82e2-34188ec0d88f" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Algorithms/InterviewCake/Product-of-numbers.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Algorithms/__init__.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/InterviewCake/Product-of-numbers.py" afterPath="$PROJECT_DIR$/Algorithms/Product-of-numbers.py" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/InterviewCake/StockExchange.py" afterPath="$PROJECT_DIR$/Algorithms/StockExchange.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Product-of-numbers.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Algorithms/InterviewCake/Product-of-numbers.py">
+      <file leaf-file-name="StockExchange.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Algorithms/StockExchange.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="58" column="0" lean-forward="true" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+            <state relative-caret-position="109">
+              <caret line="41" column="86" lean-forward="false" selection-start-line="41" selection-start-column="86" selection-end-line="41" selection-end-column="86" />
               <folding />
             </state>
           </provider>
@@ -60,6 +62,7 @@
         <option value="$PROJECT_DIR$/Algorithms/Exercism/word-count/word_count.py" />
         <option value="$PROJECT_DIR$/Algorithms/InterviewCake/StockExchange.py" />
         <option value="$PROJECT_DIR$/Algorithms/InterviewCake/Product-of-numbers.py" />
+        <option value="$PROJECT_DIR$/Algorithms/InterviewCake/productOfThreeNumbers.py" />
       </list>
     </option>
   </component>
@@ -98,12 +101,6 @@
             <path>
               <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
-              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="InterviewCake" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
               <item name="LinkedList" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -118,6 +115,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\iLenovo\Desktop\Udacity\GitHub\DataStructures\Algorithms" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\iLenovo\Desktop\Udacity\GitHub\DataStructures\Algorithms\Exercism" />
     </key>
@@ -166,7 +166,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="DataStructures" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithms/InterviewCake/Product-of-numbers.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\iLenovo\Desktop\Udacity\GitHub\DataStructures\Algorithms\Product-of-numbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,7 +184,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="DataStructures" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithms/InterviewCake/StockExchange.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\iLenovo\Desktop\Udacity\GitHub\DataStructures\Algorithms\StockExchange.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -310,7 +310,14 @@
       <option name="project" value="LOCAL" />
       <updated>1513558548536</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Code : Product of number except at current index Problem">
+      <created>1513558616573</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1513558616573</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -383,14 +390,14 @@
     <MESSAGE value="Code : Exercism 4 programs" />
     <MESSAGE value="Code : Exercism 5-10 problems &#10;&#10;5.bob&#10;6.gigasecond&#10;7.hamming&#10;8.rna-transcription&#10;9.run-length-encoding&#10;10.word-count" />
     <MESSAGE value="Code : StockExchange Problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="Code : StockExchange Problem" />
+    <MESSAGE value="Code : Product of number except at current index Problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="Code : Product of number except at current index Problem" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Algorithms/add_one.py" />
     <entry file="file://$PROJECT_DIR$/sortand search/SortingBasics.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -723,18 +730,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms/InterviewCake/StockExchange.py">
+    <entry file="file://$PROJECT_DIR$/Algorithms/Product-of-numbers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="41" column="86" lean-forward="false" selection-start-line="41" selection-start-column="86" selection-end-line="41" selection-end-column="86" />
+        <state relative-caret-position="380">
+          <caret line="58" column="0" lean-forward="true" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms/InterviewCake/Product-of-numbers.py">
+    <entry file="file://$PROJECT_DIR$/Algorithms/productOfThreeNumbers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="58" column="0" lean-forward="true" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+        <state relative-caret-position="126">
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/StockExchange.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="41" column="86" lean-forward="false" selection-start-line="41" selection-start-column="86" selection-end-line="41" selection-end-column="86" />
           <folding />
         </state>
       </provider>
