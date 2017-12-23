@@ -26,7 +26,6 @@ Solution 2 : (defined in twoSum_2 method)
     Runtime: 35 ms
 '''
 
-
 class Solution(object):
     def twoSum_1(self, nums, target):
         """
