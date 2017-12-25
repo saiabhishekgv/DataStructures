@@ -25,3 +25,41 @@ Solution :
         - Runtime: 132 ms
 '''
 
+
+class Solution(object):
+    def findMedianSortedArrays(self, nums1, nums2):
+        """
+        :type nums1: List[int]
+        :type nums2: List[int]
+        :rtype: float
+        """
+        newlist = self.mergelists(nums1, nums2)
+        l = len(newlist)
+        if l % 2 != 0:
+            return newlist[l / 2]
+        else:
+            return (newlist[l / 2] + newlist[l / 2 - 1]) / 2.0
+
+    def mergelists(self, nums1, nums2):
+        newlist = []
+        l1 = len(nums1)
+        l2 = len(nums2)
+        i, j = 0, 0
+        while i < l1 and j < l2:
+            if nums1[i] < nums2[j]:
+                newlist.append(nums1[i])
+                i += 1
+            else:
+                newlist.append(nums2[j])
+                j += 1
+
+        while i < l1:
+            newlist.append(nums1[i])
+            i += 1
+
+        while j < l2:
+            newlist.append(nums2[j])
+            j += 1
+
+        return newlist
+
