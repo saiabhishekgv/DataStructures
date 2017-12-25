@@ -13,8 +13,13 @@ Given "bbbbb", the answer is "b", with the length of 1.
 Given "pwwkew", the answer is "wke", with the length of 3. Note that the answer must be a substring, "pwke" is a subsequence and not a substring.
 
 Solution :
-    1. Using HashMap - O(n^2)
-    2. Using HashMap using sliding Window - O(n)
+    1. Using HashMap
+        Time Complexity - O(n^2)
+        Runtime - 772 ms
+
+    2. Using HashMap using sliding Window
+        Time Complexity - O(n)
+        Runtime - 112 ms
 '''
 
 
@@ -58,4 +63,3 @@ class Solution(object):
             get_count[s[j]] = j + 1
 
         return ans
-    
