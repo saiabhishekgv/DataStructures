@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f98bb4d-f2b8-4aa2-82e2-34188ec0d88f" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Algorithms/LeetCode/8-StringtoInteger(atoi).py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Algorithms/LeetCode/9-PalindromeNumber.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/CheatSheet.docx" afterPath="$PROJECT_DIR$/CheatSheet.docx" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,21 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="7-ReverseInteger.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/7-ReverseInteger.py">
+      <file leaf-file-name="9-PalindromeNumber.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/9-PalindromeNumber.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="8-StringtoInteger(atoi).py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/8-StringtoInteger(atoi).py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="49" column="15" lean-forward="true" selection-start-line="49" selection-start-column="15" selection-end-line="49" selection-end-column="15" />
+            <state relative-caret-position="527">
+              <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -90,6 +79,7 @@
         <option value="$PROJECT_DIR$/Algorithms/LeetCode/7-ReverseInteger.py" />
         <option value="$PROJECT_DIR$/Algorithms/LeetCode/8-StringtoInteger(atoi).py" />
         <option value="$PROJECT_DIR$/globalVariable.py" />
+        <option value="$PROJECT_DIR$/Algorithms/LeetCode/9-PalindromeNumber.py" />
       </list>
     </option>
   </component>
@@ -447,7 +437,14 @@
       <option name="project" value="LOCAL" />
       <updated>1514269364615</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Code : LeetCode 8th problem String to Integer (atoi)">
+      <created>1514276932043</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1514276932043</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -531,20 +528,14 @@
     <MESSAGE value="Code : LeetCode 5th problem Longest Palindrome Substring" />
     <MESSAGE value="Code : LeetCode 6th problem Zig Zag Conversion" />
     <MESSAGE value="Code : LeetCode 7th problem Reverse Integer" />
-    <option name="LAST_COMMIT_MESSAGE" value="Code : LeetCode 7th problem Reverse Integer" />
+    <MESSAGE value="Code : LeetCode 8th problem String to Integer (atoi)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Code : LeetCode 8th problem String to Integer (atoi)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Algorithms/Exercism/hamming/hamming_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="49" column="41" lean-forward="false" selection-start-line="49" selection-start-column="31" selection-end-line="49" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Algorithms/Exercism/gigasecond/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -924,6 +915,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="49" column="15" lean-forward="true" selection-start-line="49" selection-start-column="15" selection-end-line="49" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/9-PalindromeNumber.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
           <folding />
         </state>
       </provider>
