@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f98bb4d-f2b8-4aa2-82e2-34188ec0d88f" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Algorithms/LeetCode/6-ZigZagConversion.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Algorithms/LeetCode/7-ReverseInteger.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,21 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="5-LongestPalindromicSubstring.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/5-LongestPalindromicSubstring.py">
+      <file leaf-file-name="7-ReverseInteger.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/7-ReverseInteger.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="64" column="21" lean-forward="true" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="6-ZigZagConversion.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/6-ZigZagConversion.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="21">
+              <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -86,6 +76,7 @@
         <option value="$PROJECT_DIR$/Algorithms/LeetCode/4-MedianOfTwoSortedArrays.py" />
         <option value="$PROJECT_DIR$/Algorithms/LeetCode/5-LongestPalindromicSubstring.py" />
         <option value="$PROJECT_DIR$/Algorithms/LeetCode/6-ZigZagConversion.py" />
+        <option value="$PROJECT_DIR$/Algorithms/LeetCode/7-ReverseInteger.py" />
       </list>
     </option>
   </component>
@@ -429,7 +420,14 @@
       <option name="project" value="LOCAL" />
       <updated>1514219831230</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Code : LeetCode 6th problem Zig Zag Conversion">
+      <created>1514267742675</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1514267742675</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -511,20 +509,14 @@
     <MESSAGE value="Code : LeetCode 3rd problem Longest Substring Without Repeating Characters" />
     <MESSAGE value="Code : LeetCode 4th problem Median of Two Sorted Arrays" />
     <MESSAGE value="Code : LeetCode 5th problem Longest Palindrome Substring" />
-    <option name="LAST_COMMIT_MESSAGE" value="Code : LeetCode 5th problem Longest Palindrome Substring" />
+    <MESSAGE value="Code : LeetCode 6th problem Zig Zag Conversion" />
+    <option name="LAST_COMMIT_MESSAGE" value="Code : LeetCode 6th problem Zig Zag Conversion" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Algorithms/Exercism/rna-transcription/rna_transcription.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Algorithms/Exercism/rna-transcription/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -889,6 +881,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/6-ZigZagConversion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/5-LongestPalindromicSubstring.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="338">
@@ -897,10 +897,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/6-ZigZagConversion.py">
+    <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/7-ReverseInteger.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="21">
+          <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
           <folding />
         </state>
       </provider>
