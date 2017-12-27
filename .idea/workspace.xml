@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f98bb4d-f2b8-4aa2-82e2-34188ec0d88f" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Algorithms/LeetCode/14-LongestCommonPrefix.py" />
+    <list default="true" id="7f98bb4d-f2b8-4aa2-82e2-34188ec0d88f" name="Default" comment="Code : LeetCode Question 15.">
+      <change beforePath="" afterPath="$PROJECT_DIR$/Algorithms/LeetCode/15-3Sum.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,11 +14,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="14-LongestCommonPrefix.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="14-LongestCommonPrefix.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/14-LongestCommonPrefix.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="34" />
+            <state relative-caret-position="252">
+              <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="15-3Sum.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/15-3Sum.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -85,6 +95,7 @@
         <option value="$PROJECT_DIR$/Algorithms/LeetCode/10-RegularExpressionMatching.py" />
         <option value="$PROJECT_DIR$/Algorithms/LeetCode/13.RomanToInteger.py" />
         <option value="$PROJECT_DIR$/Algorithms/LeetCode/14-LongestCommonPrefix.py" />
+        <option value="$PROJECT_DIR$/Algorithms/LeetCode/15-3Sum.py" />
       </list>
     </option>
   </component>
@@ -163,7 +174,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.10-RegularExpressionMatching">
+  <component name="RunManager" selected="Python.15-3Sum">
     <configuration name="10-RegularExpressionMatching" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -177,6 +188,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="DataStructures" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithms/LeetCode/10-RegularExpressionMatching.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="15-3Sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithms/LeetCode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DataStructures" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithms/LeetCode/15-3Sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -252,36 +281,21 @@
       <option name="ipnbHost" value="127.0.0.1" />
       <option name="ipnbPort" value="8888" />
     </configuration>
-    <configuration name="Nosetests for allergies_test.AllergiesTests.test_is_allergic_to_eggs" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithms/Exercism/allergies" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="DataStructures" />
-      <option name="_new_regexPattern" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;allergies_test.AllergiesTests.test_is_allergic_to_eggs&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-    </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Jupyter Notebook.DataStructures" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Nosetests for allergies_test.AllergiesTests.test_is_allergic_to_eggs" />
-      <item index="2" class="java.lang.String" itemvalue="Python.series" />
-      <item index="3" class="java.lang.String" itemvalue="Python.sampleee" />
-      <item index="4" class="java.lang.String" itemvalue="Python.globalVariable" />
-      <item index="5" class="java.lang.String" itemvalue="Python.10-RegularExpressionMatching" />
+      <item index="1" class="java.lang.String" itemvalue="Python.series" />
+      <item index="2" class="java.lang.String" itemvalue="Python.sampleee" />
+      <item index="3" class="java.lang.String" itemvalue="Python.globalVariable" />
+      <item index="4" class="java.lang.String" itemvalue="Python.10-RegularExpressionMatching" />
+      <item index="5" class="java.lang.String" itemvalue="Python.15-3Sum" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.10-RegularExpressionMatching" />
-        <item index="1" class="java.lang.String" itemvalue="Python.sampleee" />
-        <item index="2" class="java.lang.String" itemvalue="Python.globalVariable" />
-        <item index="3" class="java.lang.String" itemvalue="Python.series" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Nosetests for allergies_test.AllergiesTests.test_is_allergic_to_eggs" />
+        <item index="0" class="java.lang.String" itemvalue="Python.15-3Sum" />
+        <item index="1" class="java.lang.String" itemvalue="Python.10-RegularExpressionMatching" />
+        <item index="2" class="java.lang.String" itemvalue="Python.sampleee" />
+        <item index="3" class="java.lang.String" itemvalue="Python.globalVariable" />
+        <item index="4" class="java.lang.String" itemvalue="Python.series" />
       </list>
     </recent_temporary>
   </component>
@@ -495,7 +509,14 @@
       <option name="project" value="LOCAL" />
       <updated>1514404723444</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Code : LeetCode Question 14. Longest Common Prefix">
+      <created>1514406184582</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1514406184582</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -585,20 +606,14 @@
     <MESSAGE value="Code : LeetCode 12th problem Integer to Roman" />
     <MESSAGE value="Code : LeetCode 10th problem Regular Expression Matching" />
     <MESSAGE value="Code : LeetCode Question 13. Roman to Integer" />
-    <option name="LAST_COMMIT_MESSAGE" value="Code : LeetCode Question 13. Roman to Integer" />
+    <MESSAGE value="Code : LeetCode Question 14. Longest Common Prefix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Code : LeetCode Question 14. Longest Common Prefix" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Algorithms/Exercism/run-length-encoding/run_length_encoding_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="26" column="19" lean-forward="false" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Algorithms/Exercism/run-length-encoding/run_length_encoding.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
@@ -853,14 +868,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/1-TwoSum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="29" column="31" lean-forward="false" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/2-AddTwoNumbers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-754">
@@ -973,10 +980,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/1-TwoSum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="54" column="17" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/14-LongestCommonPrefix.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="34" />
+        <state relative-caret-position="252">
+          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/15-3Sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
           <folding />
         </state>
       </provider>
