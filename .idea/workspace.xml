@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f98bb4d-f2b8-4aa2-82e2-34188ec0d88f" name="Default" comment="Code : LeetCode Question 15.">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Algorithms/LeetCode/15-3Sum.py" />
+    <list default="true" id="7f98bb4d-f2b8-4aa2-82e2-34188ec0d88f" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/Algorithms/LeetCode/11-ContainerWithMostWater.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,11 +24,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="15-3Sum.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="15-3Sum.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/15-3Sum.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
               <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="11-ContainerWithMostWater.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/11-ContainerWithMostWater.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -96,6 +106,7 @@
         <option value="$PROJECT_DIR$/Algorithms/LeetCode/13.RomanToInteger.py" />
         <option value="$PROJECT_DIR$/Algorithms/LeetCode/14-LongestCommonPrefix.py" />
         <option value="$PROJECT_DIR$/Algorithms/LeetCode/15-3Sum.py" />
+        <option value="$PROJECT_DIR$/Algorithms/LeetCode/11-ContainerWithMostWater.py" />
       </list>
     </option>
   </component>
@@ -516,7 +527,14 @@
       <option name="project" value="LOCAL" />
       <updated>1514406184582</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Code : LeetCode Question 15. 3 Sum">
+      <created>1514409462799</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1514409462799</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -607,20 +625,14 @@
     <MESSAGE value="Code : LeetCode 10th problem Regular Expression Matching" />
     <MESSAGE value="Code : LeetCode Question 13. Roman to Integer" />
     <MESSAGE value="Code : LeetCode Question 14. Longest Common Prefix" />
-    <option name="LAST_COMMIT_MESSAGE" value="Code : LeetCode Question 14. Longest Common Prefix" />
+    <MESSAGE value="Code : LeetCode Question 15. 3 Sum" />
+    <option name="LAST_COMMIT_MESSAGE" value="Code : LeetCode Question 15. 3 Sum" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Algorithms/Exercism/run-length-encoding/run_length_encoding.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="22" column="21" lean-forward="false" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Algorithms/Exercism/gigasecond/gigasecond_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
@@ -1000,6 +1012,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/11-ContainerWithMostWater.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
           <folding />
         </state>
       </provider>
