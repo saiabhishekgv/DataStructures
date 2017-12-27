@@ -1,3 +1,13 @@
-l = [ 2 , 4 , 5 ,9 , 10, 11, 12, 15, 10]
+def gcd(m, n):
+    while m % n != 0:
+        oldm = m
+        oldn = n
 
-print l.index(10)
+        m = oldn
+        n = oldm % oldn
+
+    return n
+
+
+print(gcd(40,8))
+
