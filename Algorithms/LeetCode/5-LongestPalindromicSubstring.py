@@ -68,3 +68,37 @@ class Solution(object):
             i += 1
             j -= 1
         return 1
+    
+  
+
+'''
+Solution : 
+Hint: Expand Around Center
+    - Time complexity : O(n^2). Since expanding a palindrome around its center could take O(n) time, the overall complexity is O(n^2)
+    - Space complexity : O(1)
+'''
+    
+class Solution:
+    def longestPalindrome(self, s):
+        """
+        :type s: str
+        :rtype: str
+        """
+        startIndex = 0
+        endIndex = 0
+        
+        for i,_ in enumerate(s):
+            len1 = checkPalindromeAround(s,i,i)
+            len2 = checkPalindromeAround(s,i,i+1)
+            maxlen = max(len1, len2)
+            if maxlen>endIndex-startIndex:
+                startIndex = i-(maxlen-1)//2
+                endIndex = i+(maxlen//2)
+        return s[startIndex:endIndex+1]
+    
+def checkPalindromeAround(s, L , R):
+    n = len(s)
+    while L>=0 and R<n and s[L]==s[R]:
+        L -= 1
+        R += 1
+    return R-L-1
