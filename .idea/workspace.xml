@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7f98bb4d-f2b8-4aa2-82e2-34188ec0d88f" name="Default" comment="">
       <change beforePath="" afterPath="$PROJECT_DIR$/Algorithms/LeetCode/21-MergeTwoSortedLists.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Algorithms/LeetCode/22-GenerateParenthesis.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,41 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="18-4Sum.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/18-4Sum.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="16" column="16" lean-forward="false" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="24-Swap Nodes in Pairs.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/24-Swap Nodes in Pairs.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="41" lean-forward="true" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="22-GenerateParenthesis.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/22-GenerateParenthesis.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="21-MergeTwoSortedLists.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="21-MergeTwoSortedLists.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/21-MergeTwoSortedLists.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="63">
-              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -590,7 +559,14 @@
       <option name="project" value="LOCAL" />
       <updated>1514596936994</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Code : LeetCode Question 22. Generate Parenthesis">
+      <created>1514597616237</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1514597616237</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -657,7 +633,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Code : Product of number except at current index Problem" />
     <MESSAGE value="Code : Floyd-Warshall Algorithm Implemented" />
     <MESSAGE value="Code : Meet-up problem from Exercism" />
     <MESSAGE value="Code : 4 more Exercism problems" />
@@ -682,7 +657,8 @@
     <MESSAGE value="Code : LeetCode Question 16. 3Sum Closest" />
     <MESSAGE value="Code : LeetCode Question 18. 4Sum" />
     <MESSAGE value="Code : LeetCode Question 24. Swap Nodes in Pairs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Code : LeetCode Question 24. Swap Nodes in Pairs" />
+    <MESSAGE value="Code : LeetCode Question 22. Generate Parenthesis" />
+    <option name="LAST_COMMIT_MESSAGE" value="Code : LeetCode Question 22. Generate Parenthesis" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1046,10 +1022,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/18-4Sum.py">
+    <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/22-GenerateParenthesis.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="16" lean-forward="false" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        <state relative-caret-position="483">
+          <caret line="23" column="3" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
           <folding />
         </state>
       </provider>
@@ -1062,18 +1038,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/21-MergeTwoSortedLists.py">
+    <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/18-4Sum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state relative-caret-position="336">
+          <caret line="16" column="16" lean-forward="false" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/22-GenerateParenthesis.py">
+    <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/21-MergeTwoSortedLists.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="33" />
+        <state relative-caret-position="63">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="35" />
           <folding />
         </state>
       </provider>
