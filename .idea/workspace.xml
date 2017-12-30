@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f98bb4d-f2b8-4aa2-82e2-34188ec0d88f" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/Algorithms/LeetCode/23-MergekSortedLists.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/LeetCode/21-MergeTwoSortedLists.py" afterPath="$PROJECT_DIR$/Algorithms/LeetCode/21-MergeTwoSortedLists.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,11 +14,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="21-MergeTwoSortedLists.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="21-MergeTwoSortedLists.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/21-MergeTwoSortedLists.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
+            <state relative-caret-position="567">
               <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="30" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="23-MergekSortedLists.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/23-MergekSortedLists.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="3" column="33" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -39,7 +49,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LinkedList/Basics.py" />
         <option value="$PROJECT_DIR$/Algorithms/DailyTemperatures.py" />
         <option value="$PROJECT_DIR$/sortand search/SortingBasics.ipynb" />
         <option value="$PROJECT_DIR$/Algorithms/add_one.py" />
@@ -90,6 +99,7 @@
         <option value="$PROJECT_DIR$/Algorithms/LeetCode/24-Swap Nodes in Pairs.py" />
         <option value="$PROJECT_DIR$/Algorithms/LeetCode/22-GenerateParenthesis.py" />
         <option value="$PROJECT_DIR$/Algorithms/LeetCode/21-MergeTwoSortedLists.py" />
+        <option value="$PROJECT_DIR$/Algorithms/LeetCode/23-MergekSortedLists.py" />
       </list>
     </option>
   </component>
@@ -573,7 +583,14 @@
       <option name="project" value="LOCAL" />
       <updated>1514598064050</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Code : LeetCode Question 21. Merge Two Sorted Lists">
+      <created>1514598118912</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1514598118912</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -672,7 +689,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Algorithms/productOfThreeNumbers.py" />
     <entry file="file://$PROJECT_DIR$/Algorithms/StockExchange.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="109">
@@ -1055,8 +1071,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/21-MergeTwoSortedLists.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
+        <state relative-caret-position="567">
           <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="30" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/23-MergekSortedLists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="33" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="33" />
           <folding />
         </state>
       </provider>
