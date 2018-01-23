@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7f98bb4d-f2b8-4aa2-82e2-34188ec0d88f" name="Default" comment="">
       <change beforePath="" afterPath="$PROJECT_DIR$/Algorithms/LeetCode/33-SearchInRotatedSortedArray.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Algorithms/LeetCode/34-SearchForARange.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,17 +24,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="33-SearchInRotatedSortedArray.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="33-SearchInRotatedSortedArray.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/33-SearchInRotatedSortedArray.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+            <state relative-caret-position="21">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="43" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="34-SearchForARange.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="34-SearchForARange.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/34-SearchForARange.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-1">
@@ -327,13 +326,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1511982131287</updated>
-    </task>
-    <task id="LOCAL-00001" summary="Code : Insertion Sort">
-      <created>1512056901351</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1512056901352</updated>
     </task>
     <task id="LOCAL-00002" summary="Code : Shell sort and Binary Search">
       <created>1512056931305</created>
@@ -671,7 +663,14 @@
       <option name="project" value="LOCAL" />
       <updated>1516723018904</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="Code : LeetCode Question 34. Search For a Range">
+      <created>1516725074941</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1516725074942</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -738,7 +737,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Code : LeetCode 9th problem Palindrome Number" />
     <MESSAGE value="Code : LeetCode 19th problem Remove Nth Node From End of List" />
     <MESSAGE value="Code : LeetCode 12th problem Integer to Roman" />
     <MESSAGE value="Code : LeetCode 10th problem Regular Expression Matching" />
@@ -763,7 +761,8 @@
     <MESSAGE value="Code : LeetCode Question 30. Substring with Concatenation of All Words" />
     <MESSAGE value="Code : LeetCode Question 31. Next Permutation" />
     <MESSAGE value="Code : LeetCode Question 32 : Longest Valid Parenthesis" />
-    <option name="LAST_COMMIT_MESSAGE" value="Code : LeetCode Question 32 : Longest Valid Parenthesis" />
+    <MESSAGE value="Code : LeetCode Question 34. Search For a Range" />
+    <option name="LAST_COMMIT_MESSAGE" value="Code : LeetCode Question 34. Search For a Range" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1122,18 +1121,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/33-SearchInRotatedSortedArray.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/34-SearchForARange.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1">
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/33-SearchInRotatedSortedArray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="43" />
           <folding />
         </state>
       </provider>
