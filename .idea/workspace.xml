@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f98bb4d-f2b8-4aa2-82e2-34188ec0d88f" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Algorithms/LeetCode/173-BinarySearchTreeIterator.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Algorithms/LeetCode/450-DeleteNodeinaBST.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/LeetCode/173-BinarySearchTreeIterator.py" afterPath="$PROJECT_DIR$/Algorithms/LeetCode/173-BinarySearchTreeIterator.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,7 +18,7 @@
       <file leaf-file-name="36-ValidSudoku.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/36-ValidSudoku.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
+            <state relative-caret-position="0">
               <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="25" />
               <folding />
             </state>
@@ -47,8 +48,18 @@
       <file leaf-file-name="173-BinarySearchTreeIterator.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/173-BinarySearchTreeIterator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="41" />
+            <state relative-caret-position="682">
+              <caret line="55" column="2" lean-forward="false" selection-start-line="55" selection-start-column="2" selection-end-line="55" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="450-DeleteNodeinaBST.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/450-DeleteNodeinaBST.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" column="34" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -69,7 +80,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Algorithms/Exercism/difference-of-squares/difference_of_squares.py" />
         <option value="$PROJECT_DIR$/Algorithms/Exercism/anagram/anagram.py" />
         <option value="$PROJECT_DIR$/Algorithms/Exercism/allergies/allergies.py" />
         <option value="$PROJECT_DIR$/Algorithms/Exercism/series/series.py" />
@@ -120,6 +130,7 @@
         <option value="$PROJECT_DIR$/Algorithms/LongestNonNegSumSlice.py" />
         <option value="$PROJECT_DIR$/Algorithms/LeetCode/98-ValidateBinarySearchTree.py" />
         <option value="$PROJECT_DIR$/Algorithms/LeetCode/173-BinarySearchTreeIterator.py" />
+        <option value="$PROJECT_DIR$/Algorithms/LeetCode/450-DeleteNodeinaBST.py" />
       </list>
     </option>
   </component>
@@ -336,13 +347,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1511982131287</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Code : Product of number except at current index Problem">
-      <created>1513558616573</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1513558616573</updated>
     </task>
     <task id="LOCAL-00008" summary="Code : Product of number except at current index Problem">
       <created>1513559541879</created>
@@ -680,7 +684,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517208846535</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="Code : LeetCode Question 173. Binary Search Tree Iterator">
+      <created>1517209323928</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1517209323928</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -771,7 +782,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Code : LeetCode Question 15. 3 Sum" />
     <MESSAGE value="Code : LeetCode 11. Container With Most Water" />
     <MESSAGE value="Code : LeetCode Question 20. Valid Parentheses" />
     <MESSAGE value="Code : LeetCode Question 17. Letter Combinations of a Phone Number" />
@@ -796,30 +806,14 @@
     <MESSAGE value="Code : LeetCode Question 36. Valid Sudoku" />
     <MESSAGE value="Code : LeetCode Question 38. Count and Say" />
     <MESSAGE value="Code : LeetCode Question 98. Validate Binary Search Tree" />
-    <option name="LAST_COMMIT_MESSAGE" value="Code : LeetCode Question 98. Validate Binary Search Tree" />
+    <MESSAGE value="Code : LeetCode Question 173. Binary Search Tree Iterator" />
+    <option name="LAST_COMMIT_MESSAGE" value="Code : LeetCode Question 173. Binary Search Tree Iterator" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Algorithms/Exercism/allergies/allergies_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="18" column="36" lean-forward="false" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms/Exercism/series/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SECOND">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Algorithms/Exercism/series/series.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
@@ -1003,13 +997,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Untitled.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sample.py" />
     <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/n-aryTreePostorderTraversal.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -1118,7 +1105,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/36-ValidSudoku.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
+        <state relative-caret-position="0">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="25" />
           <folding />
         </state>
@@ -1141,10 +1128,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/WhatsApp Image 2018-01-02 at 7.23.33 PM.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Untitled.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/450-DeleteNodeinaBST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="34" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/173-BinarySearchTreeIterator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="41" />
+        <state relative-caret-position="682">
+          <caret line="55" column="2" lean-forward="false" selection-start-line="55" selection-start-column="2" selection-end-line="55" selection-end-column="2" />
           <folding />
         </state>
       </provider>
