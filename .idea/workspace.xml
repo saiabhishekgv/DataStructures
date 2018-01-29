@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f98bb4d-f2b8-4aa2-82e2-34188ec0d88f" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Algorithms/LeetCode/450-DeleteNodeinaBST.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Algorithms/LeetCode/bst-insert.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,11 +44,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="173-BinarySearchTreeIterator.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="173-BinarySearchTreeIterator.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/173-BinarySearchTreeIterator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="682">
-              <caret line="55" column="2" lean-forward="false" selection-start-line="55" selection-start-column="2" selection-end-line="55" selection-end-column="2" />
+            <state relative-caret-position="661">
+              <caret line="54" column="44" lean-forward="true" selection-start-line="54" selection-start-column="44" selection-end-line="54" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -57,8 +57,18 @@
       <file leaf-file-name="450-DeleteNodeinaBST.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/450-DeleteNodeinaBST.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="34" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="34" />
+            <state relative-caret-position="210">
+              <caret line="10" column="48" lean-forward="true" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bst-insert.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/bst-insert.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="808">
+              <caret line="64" column="19" lean-forward="false" selection-start-line="64" selection-start-column="19" selection-end-line="64" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -79,7 +89,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Algorithms/Exercism/anagram/anagram.py" />
         <option value="$PROJECT_DIR$/Algorithms/Exercism/allergies/allergies.py" />
         <option value="$PROJECT_DIR$/Algorithms/Exercism/series/series.py" />
         <option value="$PROJECT_DIR$/Algorithms/LeetCode/1-TwoSum.py" />
@@ -130,6 +139,7 @@
         <option value="$PROJECT_DIR$/Algorithms/LeetCode/98-ValidateBinarySearchTree.py" />
         <option value="$PROJECT_DIR$/Algorithms/LeetCode/173-BinarySearchTreeIterator.py" />
         <option value="$PROJECT_DIR$/Algorithms/LeetCode/450-DeleteNodeinaBST.py" />
+        <option value="$PROJECT_DIR$/Algorithms/LeetCode/bst-insert.py" />
       </list>
     </option>
   </component>
@@ -346,13 +356,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1511982131287</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Code : Floyd-Warshall Algorithm Implemented">
-      <created>1513621139120</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1513621139120</updated>
     </task>
     <task id="LOCAL-00010" summary="Code : Meet-up problem from Exercism">
       <created>1513624845517</created>
@@ -690,7 +693,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517211351155</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="Code : LeetCode Question 450. Delete Node in a BST">
+      <created>1517211366858</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1517211366858</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -813,13 +823,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Algorithms/Exercism/series/series.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/2-AddTwoNumbers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-754">
@@ -1139,18 +1142,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/450-DeleteNodeinaBST.py">
+    <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/173-BinarySearchTreeIterator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="34" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="34" />
+        <state relative-caret-position="661">
+          <caret line="54" column="44" lean-forward="true" selection-start-line="54" selection-start-column="44" selection-end-line="54" selection-end-column="44" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/173-BinarySearchTreeIterator.py">
+    <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/450-DeleteNodeinaBST.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="55" column="2" lean-forward="false" selection-start-line="55" selection-start-column="2" selection-end-line="55" selection-end-column="2" />
+        <state relative-caret-position="210">
+          <caret line="10" column="48" lean-forward="true" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/bst-insert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="808">
+          <caret line="64" column="19" lean-forward="false" selection-start-line="64" selection-start-column="19" selection-end-line="64" selection-end-column="19" />
           <folding />
         </state>
       </provider>
