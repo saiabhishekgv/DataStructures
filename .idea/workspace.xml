@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f98bb4d-f2b8-4aa2-82e2-34188ec0d88f" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Algorithms/LeetCode/144-BinaryTreePreorderTraversal.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Algorithms/LeetCode/94-BinaryTreeInorderTraversal.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,11 +14,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="144-BinaryTreePreorderTraversal.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="144-BinaryTreePreorderTraversal.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/144-BinaryTreePreorderTraversal.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="21">
               <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="94-BinaryTreeInorderTraversal.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/94-BinaryTreeInorderTraversal.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -39,7 +49,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Algorithms/LeetCode/5-LongestPalindromicSubstring.py" />
         <option value="$PROJECT_DIR$/Algorithms/LeetCode/6-ZigZagConversion.py" />
         <option value="$PROJECT_DIR$/Algorithms/LeetCode/7-ReverseInteger.py" />
         <option value="$PROJECT_DIR$/Algorithms/LeetCode/8-StringtoInteger(atoi).py" />
@@ -90,6 +99,7 @@
         <option value="$PROJECT_DIR$/Algorithms/LeetCode/110-BalancedBinaryTree.py" />
         <option value="$PROJECT_DIR$/Algorithms/LeetCode/108.Convert Sorted Array to Binary Search Tree.py" />
         <option value="$PROJECT_DIR$/Algorithms/LeetCode/144-BinaryTreePreorderTraversal.py" />
+        <option value="$PROJECT_DIR$/Algorithms/LeetCode/94-BinaryTreeInorderTraversal.py" />
       </list>
     </option>
   </component>
@@ -306,13 +316,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1511982131287</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Code : LeetCode 3rd problem Longest Substring Without Repeating Characters">
-      <created>1514160198832</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1514160198834</updated>
     </task>
     <task id="LOCAL-00017" summary="Code : LeetCode 4th problem Median of Two Sorted Arrays">
       <created>1514161729228</created>
@@ -650,7 +653,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517216853994</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="Code : Leetcode Question 144. Binary Tree Preorder Traversal">
+      <created>1517325545076</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1517325545077</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -741,7 +751,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Code : LeetCode Question 21. Merge Two Sorted Lists" />
     <MESSAGE value="Code : LeetCode Question 23. Merge k Sorted Lists" />
     <MESSAGE value="Code : LeetCode Question 25. Reverse Nodes in k-Group" />
     <MESSAGE value="Code : LeetCode Question 26. Remove Duplicates from Sorted Array" />
@@ -766,20 +775,14 @@
     <MESSAGE value="Code : Leetcode bst-Search in a Binary Search Tree" />
     <MESSAGE value="Code : Leetcode 110. Balanced Binary Tree" />
     <MESSAGE value="Code : Leetcode Question 108. Convert Sorted Array to Binary Search Tree" />
-    <option name="LAST_COMMIT_MESSAGE" value="Code : Leetcode Question 108. Convert Sorted Array to Binary Search Tree" />
+    <MESSAGE value="Code : Leetcode Question 144. Binary Tree Preorder Traversal" />
+    <option name="LAST_COMMIT_MESSAGE" value="Code : Leetcode Question 144. Binary Tree Preorder Traversal" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/6-ZigZagConversion.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="3" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="55" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/5-LongestPalindromicSubstring.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
@@ -1031,6 +1034,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
           <caret line="27" column="3" lean-forward="false" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1038,6 +1042,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="40" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1053,6 +1058,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="661">
           <caret line="54" column="44" lean-forward="true" selection-start-line="54" selection-start-column="44" selection-end-line="54" selection-end-column="44" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1060,6 +1066,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="10" column="48" lean-forward="true" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1067,6 +1074,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="808">
           <caret line="64" column="19" lean-forward="false" selection-start-line="64" selection-start-column="19" selection-end-line="64" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1074,6 +1082,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1081,6 +1090,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="651">
           <caret line="31" column="22" lean-forward="true" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1088,6 +1098,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="22" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1111,6 +1122,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/94-BinaryTreeInorderTraversal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="42" />
           <folding />
         </state>
       </provider>
