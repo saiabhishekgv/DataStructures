@@ -20,7 +20,7 @@ def execute(program):
             try:
                 result = item(*pending)
             except Exception as e :
-
+                print(e)
             pending = []
             pending.append(result)
         else:
