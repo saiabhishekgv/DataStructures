@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f98bb4d-f2b8-4aa2-82e2-34188ec0d88f" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Algorithms/LeetCode/789-Escape The Ghosts.py" />
+    <list default="true" id="7f98bb4d-f2b8-4aa2-82e2-34188ec0d88f" name="Default" comment="Code : Question Question 789. Escape The Ghosts">
+      <change beforePath="" afterPath="$PROJECT_DIR$/Algorithms/LeetCode/793-Preimage Size of Factorial Zeroes Function.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,11 +14,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="789-Escape The Ghosts.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="789-Escape The Ghosts.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/789-Escape The Ghosts.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="31" />
+            <state relative-caret-position="808">
+              <caret line="59" column="39" lean-forward="false" selection-start-line="59" selection-start-column="39" selection-end-line="59" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="793-Preimage Size of Factorial Zeroes Function.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/793-Preimage Size of Factorial Zeroes Function.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" column="56" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="56" />
               <folding />
             </state>
           </provider>
@@ -39,7 +49,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Algorithms/LeetCode/13.RomanToInteger.py" />
         <option value="$PROJECT_DIR$/Algorithms/LeetCode/14-LongestCommonPrefix.py" />
         <option value="$PROJECT_DIR$/Algorithms/LeetCode/11-ContainerWithMostWater.py" />
         <option value="$PROJECT_DIR$/Algorithms/LeetCode/20-ValidParenthesis.py" />
@@ -90,6 +99,7 @@
         <option value="$PROJECT_DIR$/Algorithms/LeetCode/303-Range Sum Query - Immutable.py" />
         <option value="$PROJECT_DIR$/Algorithms/LeetCode/791-Custom Sort String.py" />
         <option value="$PROJECT_DIR$/Algorithms/LeetCode/789-Escape The Ghosts.py" />
+        <option value="$PROJECT_DIR$/Algorithms/LeetCode/793-Preimage Size of Factorial Zeroes Function.py" />
       </list>
     </option>
   </component>
@@ -114,8 +124,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -148,6 +156,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -311,13 +321,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1511982131287</updated>
-    </task>
-    <task id="LOCAL-00027" summary="Code : LeetCode 10th problem Regular Expression Matching">
-      <created>1514404102992</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1514404102992</updated>
     </task>
     <task id="LOCAL-00028" summary="Code : LeetCode Question 13. Roman to Integer">
       <created>1514404723444</created>
@@ -655,7 +658,14 @@
       <option name="project" value="LOCAL" />
       <updated>1520102882393</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="Code : Question Question 789. Escape The Ghosts">
+      <created>1520103697711</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1520103697711</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -697,13 +707,13 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15797788" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32852387" sideWeight="0.50416666" order="14" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3318535" sideWeight="0.49583334" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3318535" sideWeight="0.49583334" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="SFDX" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -746,7 +756,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Code : LeetCode Question 32 : Longest Valid Parenthesis" />
     <MESSAGE value="Code : LeetCode Question 34. Search For a Range" />
     <MESSAGE value="Code : LeetCode Question 33. Search in Rotated Sorted Array" />
     <MESSAGE value="Code : LeetCode Question 35. Search Insert Position" />
@@ -771,20 +780,14 @@
     <MESSAGE value="Code : Stack Practise problem from Pluralsight" />
     <MESSAGE value="Code : Question 303. Range Sum Query - Immutable" />
     <MESSAGE value="Code : Question Question 791. Custom Sort String" />
-    <option name="LAST_COMMIT_MESSAGE" value="Code : Question Question 791. Custom Sort String" />
+    <MESSAGE value="Code : Question Question 789. Escape The Ghosts" />
+    <option name="LAST_COMMIT_MESSAGE" value="Code : Question Question 789. Escape The Ghosts" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/22-GenerateParenthesis.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="23" column="3" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/18-4Sum.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-23">
@@ -1103,7 +1106,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1117,8 +1119,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/789-Escape The Ghosts.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="31" />
+        <state relative-caret-position="808">
+          <caret line="59" column="39" lean-forward="false" selection-start-line="59" selection-start-column="39" selection-end-line="59" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/LeetCode/793-Preimage Size of Factorial Zeroes Function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="56" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="56" />
           <folding />
         </state>
       </provider>
